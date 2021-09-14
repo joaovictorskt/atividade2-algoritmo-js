@@ -18,6 +18,6 @@ var participantes = "85"
 //limite de participantes "100"
 
 if (participantes <100){
-    console.log ("Cadastro Concluido"); console.log ("Aguarde o dia do Evento")
+    console.log ("Cadastro Concluído"); console.log ("Aguarde o dia do Evento")
 } else console.log ("Cadastro Negado"); ("Limite de Participantes atingido")
 
