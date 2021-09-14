@@ -1,5 +1,8 @@
 ATIVIDADE 2 - LÓGICA DE PROGRAMAÇÃO - JAVASCRIPT 
-![readme](https://user-images.githubusercontent.com/89541042/133268678-8067250c-91e9-4bfb-b85a-a5615a3ca9c8.png) 
+![JS2](https://user-images.githubusercontent.com/89541042/133281280-042c813f-f9d6-444e-b35c-d8ba83589cf9.png)
+
+
+
 
   FLUXOGRAMA
   
